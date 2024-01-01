@@ -19,8 +19,8 @@
       <br />Python
     </td>
     <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"
+     <img
+        src="https://cdn.worldvectorlogo.com/logos/django.svg"
         width="48"
         height="48"
         alt="Django"
@@ -162,6 +162,6 @@
 
 </table>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanbenitezdev&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Juan Benitez" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iskasoft&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Juan Benitez" align="right" />
 </a>
 
