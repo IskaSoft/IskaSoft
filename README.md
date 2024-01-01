@@ -22,7 +22,7 @@
               width="43"
               height="43"
               alt="Django"
-            />&nbsp&nbsp
+            />&nbsp &nbsp
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
               width="43"
