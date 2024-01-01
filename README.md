@@ -45,6 +45,15 @@
       />
       <br />Express
     </td>
+     <td align="center" width="96">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+        width="48"
+        height="48"
+        alt="PHP"
+      />
+      <br />PHP
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -56,15 +65,7 @@
       />
       <br />JavaScript
     </td>
-    <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-        width="48"
-        height="48"
-        alt="PHP"
-      />
-      <br />PHP
-    </td>
+   
     <td align="center" width="96">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -129,6 +130,15 @@
         alt="Flutter"
       />
       <br />Flutter
+    </td>
+     <td align="center" width="96">
+    <img
+        src="https://cdn.worldvectorlogo.com/logos/java.svg"
+        width="48"
+        height="48"
+        alt="Java"
+      />
+      <br />Java
     </td>
     <td align="center" width="96">
       <img
