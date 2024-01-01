@@ -7,175 +7,127 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        width="48"
-        height="48"
-        alt="Python"
-      />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-     <img
-        src="https://cdn.worldvectorlogo.com/logos/django.svg"
-        width="48"
-        height="48"
-        alt="Django"
-      />
-      <br />Django
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
-        width="48"
-        height="48"
-        alt="Flask"
-      />
-      <br />Flask
-    </td>
-    <td align="center" width="96">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="express"
-      />
-      <br />Express
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-        width="48"
-        height="48"
-        alt="PHP"
-      />
-      <br />PHP
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br />JavaScript
-    </td>
-<td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br />React JS
-    </td>
-      <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
-        width="48"
-        height="48"
-        alt="Jquery"
-      />
-      <br />Jquery
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48"
-        height="48"
-        alt="Node JS"
-      />
-      <br />Node JS
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
-        alt="Mongo DB"
-      />
-      <br />MongoDB
-    </td>
-    
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br />PostgreSQL
-    </td>
-<td align="center" width="96">   
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original-wordmark.svg'
-    width="48"
-        height="48"
-        alt="MySQL"/>
-      <br />MySQL
-    </td>
-<td align="center" width="96">
-    <img
-        src="https://cdn.worldvectorlogo.com/logos/flutter.svg"
-        width="48"
-        height="48"
-        alt="Flutter"
-      />
-      <br />Flutter
-    </td>
-<td align="center" width="96">
-    <img
-        src="https://cdn.worldvectorlogo.com/logos/java.svg"
-        width="48"
-        height="48"
-        alt="Java"
-      />
-      <br />Java
-    </td>
-     <td align="center" width="96">
-     <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
-        width="48"
-        height="48"
-        alt="Dart"
-      />
-      <br />Dart
-    </td>
-  </tr>
-  <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br />Git
-    </td>
- <td align="center" width="96">
-   <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br />HTML5
-    </td>
-     <td align="center" width="96">
-     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/css3/css3-original.svg'
-        width="48"
-        height="48"
-        alt="CSS"
-      />
-      <br />CSS3
-    </td>
-</table>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=iskasoft&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Isa Yagmyrov" align="center" />
-</a>
-
+<h2>Back-End</h2><img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+              width="48"
+              height="48"
+              alt="Python"
+            />&nbsp &nbsp<img
+              src="https://cdn.worldvectorlogo.com/logos/django.svg"
+              width="48"
+              height="48"
+              alt="Django"
+            />&nbsp&nbsp
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+              width="48"
+              height="48"
+              alt="Flask"
+            />
+            &nbsp &nbsp
+              <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+              width="48"
+              height="48"
+              alt="express"
+            />
+            &nbsp &nbsp
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+              width="48"
+              height="48"
+              alt="PHP"
+            />&nbsp &nbsp
+            <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+            width="48"
+            height="48"
+            alt="Node JS"
+          />
+           <br>
+<h2>Front-End</h2>
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+width="48"
+height="48"
+alt="HTML"
+/>
+&nbsp &nbsp
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/css3/css3-original.svg'
+width="48"
+height="48"
+alt="CSS"
+/>&nbsp &nbsp
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+              width="48"
+              height="48"
+              alt="JavaScript"
+            />
+            &nbsp &nbsp
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+              width="48"
+              height="48"
+              alt="React"
+            />
+            &nbsp &nbsp
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+              width="48"
+              height="48"
+              alt="Jquery"
+            />
+       
+  <h2>Databases</h2>      
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+              width="48"
+              height="48"
+              alt="Mongo DB"
+            />
+            &nbsp &nbsp
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+              width="48"
+              height="48"
+              alt="PostgreSQL"
+            />
+            &nbsp &nbsp
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original-wordmark.svg'
+          width="48"
+              height="48"
+              alt="MySQL"/>
+ <h2> App development</h2>
+          <img
+              src="https://cdn.worldvectorlogo.com/logos/flutter.svg"
+              width="48"
+              height="48"
+              alt="Flutter"
+            />&nbsp &nbsp
+          <img
+              src="https://cdn.worldvectorlogo.com/logos/java.svg"
+              width="48"
+              height="48"
+              alt="Java"
+            />
+            &nbsp &nbsp
+           <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+              width="48"
+              height="48"
+              alt="Dart"
+            />
+ <h2>DevOps Tools</h2>          
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+              width="48"
+              height="48"
+              alt="Git"
+            />
+           <br>
+        
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api?username=iskasoft&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Isa Yagmyrov" align="center" />
+      </a>
+      
