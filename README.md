@@ -115,7 +115,7 @@
     </td>
     <td align="center" width="96">
       <img
-        src="https://cdn.worldvectorlogo.com/logos/mysqlr.svg"
+        src="https://cdn.worldvectorlogo.com/logos/mysql.svg"
         width="48"
         height="48"
         alt="MySQL"
@@ -162,6 +162,6 @@
 
 </table>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=iskasoft&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Juan Benitez" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iskasoft&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Isa Yagmyrov" align="center" />
 </a>
 
