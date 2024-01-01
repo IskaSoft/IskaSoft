@@ -74,8 +74,7 @@ alt="CSS"
               alt="React"
             />
             &nbsp &nbsp
-            <img
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+          <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jquery/jquery-original-wordmark.svg'
               width="43"
               height="43"
               alt="Jquery"
