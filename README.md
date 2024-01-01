@@ -46,9 +46,7 @@
       <br />Express
      
     </td>
-    <td align="center" width="96">
-      
-    </td>
+
   </tr>
 
   <tr>
