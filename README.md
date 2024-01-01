@@ -37,22 +37,17 @@
       <br />Flask
     </td>
     <td align="center" width="96">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/flutter.svg"
+        <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="48"
         height="48"
-        alt="Flutter"
+        alt="express"
       />
-      <br />Flutter
+      <br />Express
+     
     </td>
     <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br />PostgreSQL
+      
     </td>
   </tr>
 
@@ -106,12 +101,12 @@
   <tr>
     <td align="center" width="96">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/dart-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="48"
         height="48"
-        alt="Dart"
+        alt="PostgreSQL"
       />
-      <br />Dart
+      <br />PostgreSQL
     </td>
     <td align="center" width="96">
       <img
@@ -132,13 +127,13 @@
       <br />Git
     </td>
     <td align="center" width="96">
-     <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+    <img
+        src="https://cdn.worldvectorlogo.com/logos/flutter.svg"
         width="48"
         height="48"
-        alt="express"
+        alt="Flutter"
       />
-      <br />Express
+      <br />Flutter
     </td>
     <td align="center" width="96">
       <img
@@ -150,6 +145,24 @@
       <br />Jquery
     </td>
   </tr>
+  <td align="center" width="96">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br />React JS
+    </td>
+   <td align="center" width="96">
+     <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+        width="48"
+        height="48"
+        alt="Dart"
+      />
+      <br />Dart
+    </td>
 </table>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=juanbenitezdev&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Juan Benitez" align="right" />
