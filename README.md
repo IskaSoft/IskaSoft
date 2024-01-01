@@ -113,13 +113,11 @@
       />
       <br />PostgreSQL
     </td>
-    <td align="center" width="96">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/mysql.svg"
-        width="48"
+<td align="center" width="96">   
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original-wordmark.svg'
+    width="48"
         height="48"
-        alt="MySQL"
-      />
+        alt="MySQL"/>
       <br />MySQL
     </td>
 <td align="center" width="96">
