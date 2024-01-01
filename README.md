@@ -158,22 +158,21 @@
       <br />Git
     </td>
  <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg"
+   <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
         width="48"
         height="48"
-        alt="Git"
+        alt="HTML"
       />
-      <br />Git
+      <br />HTML5
     </td>
      <td align="center" width="96">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg"
+     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/css3/css3-original.svg'
         width="48"
         height="48"
-        alt="Git"
+        alt="CSS"
       />
-      <br />Git
+      <br />CSS3
     </td>
 </table>
 <a href="#">
