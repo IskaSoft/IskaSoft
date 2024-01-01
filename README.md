@@ -46,7 +46,7 @@
             alt="Node JS"
           />
            <br></div>
-<h2>Front-End</h2>
+<h3>Front-End</h3>
 <div>
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
@@ -80,7 +80,7 @@ alt="CSS"
               alt="Jquery"
             />
     </div>
-  <h2>Databases</h2>   
+  <h3>Databases</h3>   
   <div>
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
@@ -100,7 +100,7 @@ alt="CSS"
           width="48"
               height="48"
               alt="MySQL"/>
- <h2> App development</h2>
+ <h3> App development</h3>
           <img
               src="https://cdn.worldvectorlogo.com/logos/flutter.svg"
               width="43"
@@ -120,7 +120,7 @@ alt="CSS"
               height="43"
               alt="Dart"
             /></div>
- <h2>DevOps Tools</h2>          
+ <h3>DevOps Tools</h3>          
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
               width="43"
