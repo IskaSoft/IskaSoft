@@ -157,7 +157,24 @@
       />
       <br />Git
     </td>
-
+ <td align="center" width="96">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br />Git
+    </td>
+     <td align="center" width="96">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br />Git
+    </td>
 </table>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=iskasoft&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Isa Yagmyrov" align="center" />
