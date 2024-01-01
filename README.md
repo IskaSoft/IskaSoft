@@ -7,7 +7,8 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<h2>Back-End</h2><img
+<h2>Back-End</h2>
+<div><img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
               width="48"
               height="48"
@@ -44,8 +45,9 @@
             height="48"
             alt="Node JS"
           />
-           <br>
+           <br></div>
 <h2>Front-End</h2>
+<div></div>
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
 width="48"
@@ -78,8 +80,9 @@ alt="CSS"
               height="48"
               alt="Jquery"
             />
-       
-  <h2>Databases</h2>      
+    </div>
+  <h2>Databases</h2>   
+  <div>
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
               width="48"
@@ -117,7 +120,7 @@ alt="CSS"
               width="48"
               height="48"
               alt="Dart"
-            />
+            /></div>
  <h2>DevOps Tools</h2>          
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
