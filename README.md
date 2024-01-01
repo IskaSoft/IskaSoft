@@ -44,11 +44,8 @@
         alt="express"
       />
       <br />Express
-     
     </td>
-
   </tr>
-
   <tr>
     <td align="center" width="96">
       <img
