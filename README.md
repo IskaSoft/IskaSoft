@@ -3,6 +3,7 @@
 
 📫 You can reach me at **isayagmyrov88@gmail.com** 
 
+<hr>
 
 ![Visitor Count](https://profile-counter.glitch.me/proxacker/count.svg)
 <br>
