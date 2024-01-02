@@ -71,11 +71,10 @@ alt="CSS"
               alt="JavaScript"
             />
             &nbsp &nbsp
-            <img
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"
               width="43"
               height="43"
-              alt="React"
+              alt="Bootstrap"
             />
             &nbsp &nbsp
           <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jquery/jquery-original-wordmark.svg'
