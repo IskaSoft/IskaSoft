@@ -36,7 +36,7 @@
               height="43"
               alt="express"
             -->
-          -  &nbsp &nbsp
+  &nbsp &nbsp
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
               width="43"
@@ -116,13 +116,14 @@ alt="CSS"
               height="43"
               alt="Java"
             />
-            &nbsp &nbsp-->
+            &nbsp &nbsp
            <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
               width="43"
               height="43"
               alt="Dart"
-            /></div>
+            /> --> 
+  </div>
  <h3>DevOps Tools</h3>          
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
