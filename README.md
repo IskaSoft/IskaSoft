@@ -29,27 +29,27 @@
               height="43"
               alt="Flask"
             />
-            &nbsp &nbsp
-              <img
+        <!--  &nbsp &nbsp
+            <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
               width="43"
               height="43"
               alt="express"
-            />
-            &nbsp &nbsp
+            -->
+          -  &nbsp &nbsp
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
               width="43"
               height="43"
               alt="PHP"
-            />&nbsp &nbsp
+            /> <!-- &nbsp &nbsp
             <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
             width="43"
             height="43"
             alt="Node JS"
           />
-           <br></div>
+           --> <br> </div>
 <h3>Front-End</h3>
 <div>
 <img
@@ -110,13 +110,13 @@ alt="CSS"
               height="43"
               alt="Flutter"
             />&nbsp &nbsp
-          <img
+        <!--  <img
               src="https://cdn.worldvectorlogo.com/logos/java.svg"
               width="43"
               height="43"
               alt="Java"
             />
-            &nbsp &nbsp
+            &nbsp &nbsp-->
            <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
               width="43"
