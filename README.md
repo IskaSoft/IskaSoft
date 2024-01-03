@@ -85,13 +85,13 @@ alt="CSS"
     </div>
   <h3>Databases</h3>   
   <div>
-            <img
+            <!-- <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
               width="43"
               height="43"
               alt="Mongo DB"
             />
-            &nbsp &nbsp
+            &nbsp &nbsp  -->
             <img
               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
               width="43"
