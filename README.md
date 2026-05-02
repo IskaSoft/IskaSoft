@@ -131,7 +131,4 @@ alt="CSS"
               alt="Git"
             />
            <br> 
-      <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=iskasoft&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Isa Yagmyrov" align="center" />
-      </a>
       
