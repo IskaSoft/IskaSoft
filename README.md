@@ -5,7 +5,6 @@
 
 <hr>
 
-![Visitor Count](https://profile-counter.glitch.me/proxacker/count.svg)
 <br>
 <h2 align="left">Favorite Tech</h2>
 
