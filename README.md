@@ -1,11 +1,21 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
+<h3 align="center">
+   
+  Hi, I'm Isa Yagmyrov
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Isa 👋 I'm a Software developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
+
+</h3>
 
 ### 
 
 <div align="center">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="400" width="400">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="300" width="400">
 </div>
 
 ###
@@ -24,13 +34,12 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=IskaSoft.IskaSoft&"  />
 </div>
-###
 
 <h3 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />  About Me</h3>
 
 ###
 
-<h5 align="left">I'm Isa. I'm from Turkmenistan<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning AI/ML<br>- ⚡ In my free time I always find idea and build them.</h5>
+<h4 align="left">I'm Isa. I'm from Turkmenistan<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning AI/ML<br>- ⚡ In my free time I always find idea and build them.</h4>
 
 ###
 
