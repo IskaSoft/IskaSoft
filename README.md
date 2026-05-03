@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Isa 👋 I'm a Software developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
+### 
+
 <div align="center">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="400" width="400">
 </div>
 
 ###
@@ -18,14 +24,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=IskaSoft.IskaSoft&"  />
 </div>
-
-###
-
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Isa 👋 I'm a Software developer 🚀 I ❤️ Happy Hardcore ❤️">
-</p>
-
-
 ###
 
 <h3 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />  About Me</h3>
